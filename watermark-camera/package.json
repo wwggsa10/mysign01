@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "水印相机",
+    "slug": "WatermarkCamera",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "permissions": [
+        "android.permission.CAMERA",
+        "android.permission.ACCESS_FINE_LOCATION"
+      ],
+      "package": "com.watermark.camera"
+    }
+  }
+}
